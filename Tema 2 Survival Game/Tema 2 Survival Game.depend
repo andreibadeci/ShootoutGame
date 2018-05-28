@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1492810659 source:c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\main.cpp
+	<iostream>
+	<ctime>
+	"Map.h"
+	"Map_functii.h"
+
+1492812037 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\agent.h
+	<iostream>
+	<vector>
+	<cstring>
+
+1492812037 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\item.h
+	<iostream>
+	<vector>
+
+1494002404 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\map.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	"Agent.h"
+	"German.h"
+	"Soviet.h"
+	"American.h"
+	"Item.h"
+	"SMG.h"
+	"Tank.h"
+	"Medpack.h"
+
+1492812036 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\german.h
+
+1493978015 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\soviet.h
+
+1493978084 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\american.h
+
+1492792814 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\british.h
+	<cstdlib>
+
+1492792814 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\japanese.h
+	<cstdlib>
+
+1492792814 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\italian.h
+	<cstdlib>
+
+1493978363 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\map_functii.h
+
+1492791969 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\smg.h
+
+1492791969 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\tank.h
+
+1492791969 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\artilery.h
+
+1492791969 c:\users\andrei\documents\info\facultate\poo\tema 2 survival game\medpack.h
+
